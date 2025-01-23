@@ -38,62 +38,7 @@ The project utilizes three datasets:
 
 ---
 
-## Tasks and Deliverables
 
-### Task 1: Exploratory Data Analysis (EDA) and Business Insights
-- **Objective**: Perform EDA to derive actionable business insights.  
-- **Key Highlights**:  
-  - Customer distribution by region.  
-  - Spending trends and customer segmentation.  
-  - Product performance analysis.  
-  - Seasonal and temporal sales trends.  
-
-**Deliverables**:  
-- A Jupyter Notebook/Python script with EDA code.  
-- PDF report summarizing 5 key business insights.
-
-**File Names**:  
-- `FirstName_LastName_EDA.pdf`  
-- `FirstName_LastName_EDA.ipynb`
-
----
-
-### Task 2: Lookalike Model Development
-- **Objective**: Develop a model that identifies similar customers based on profile and transaction data.  
-- **Approach**:  
-  - Compute similarity scores using profile and transactional data.  
-  - Recommend the top 3 lookalike customers for the first 20 customers (CustomerID: C0001 to C0020).
-
-**Deliverables**:  
-- CSV file containing the lookalike recommendations with similarity scores.  
-- Jupyter Notebook/Python script explaining the model development.
-
-**File Names**:  
-- `FirstName_LastName_Lookalike.csv`  
-- `FirstName_LastName_Lookalike.ipynb`
-
----
-
-### Task 3: Customer Segmentation / Clustering
-- **Objective**: Segment customers into clusters for targeted marketing.  
-- **Approach**:  
-  - Use K-Means clustering with optimal clusters determined via the Elbow Method.  
-  - Evaluate clustering performance using the Davies-Bouldin Index.  
-  - Visualize clusters using PCA.
-
-**Key Metrics**:  
-- Number of Clusters: 3  
-- Davies-Bouldin Index: 1.43  
-
-**Deliverables**:  
-- A report summarizing clustering results and metrics.  
-- Jupyter Notebook/Python script containing clustering code.
-
-**File Names**:  
-- `FirstName_LastName_Clustering.pdf`  
-- `FirstName_LastName_Clustering.ipynb`
-
----
 
 ## Repository Structure
 The repository follows the structure below:
