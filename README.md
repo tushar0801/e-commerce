@@ -83,7 +83,7 @@ The repository follows the structure below:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your_username>/Retail_Data_Analysis.git
+   git clone https://github.com/tushar0801/e-commerce.git
    ```
 
 2. Navigate to the project directory:
@@ -110,11 +110,7 @@ The repository follows the structure below:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
 **Tushar Buttan**  
-Feel free to connect via [LinkedIn](https://linkedin.com/in/<your-profile>) or email at `<your-email>` for any queries or collaborations.
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/tushar-buttan-758904197/) or email at `tushar.buttan98@gmail.com` for any queries or collaborations.
